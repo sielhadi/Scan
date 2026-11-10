@@ -1,0 +1,8 @@
+{
+  "name": "ScanToWord",
+  "description": "Scan documents using AI and transform them into Microsoft Word (.docx) documents preserving original formatting and layout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
